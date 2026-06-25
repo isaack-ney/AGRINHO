@@ -13,7 +13,24 @@ header{
 header h1{
 font-size: 34px;
 text-align: center;
-/*font-family:sans-serif;
+font-family:sans-serif;
 
 }
 
+img{
+    width: 500px;
+    height: 280px;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    color: rgb(0, 140, 255)lç [´b];
+    position: fixed;
+    width: 100%;
+}
+
+main{
+    background-color: aqua;
+    width: 70%;
+}
